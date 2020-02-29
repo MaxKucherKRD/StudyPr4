@@ -1,0 +1,8 @@
+.cards__name {
+    margin: 0;
+    font-size: 1.4rem;
+    color : hsl(232, 13%, 33%)
+}
+.cards__name_center{
+    color:white;
+}

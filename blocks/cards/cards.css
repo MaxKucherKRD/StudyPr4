@@ -1,0 +1,20 @@
+@import url(__item/cards__item.css);
+@import url(__title/cards__title.css);
+@import url(__price/cards__price.css);
+@import url(__settings/cards__settings.css);
+@import url(__button/cards__button.css);
+@import url(__link/cards__link.css);
+
+.cards {
+    margin-top : 80px;
+    display: flex;
+    justify-content: center;
+    
+    }
+ @media screen and (max-width : 768px) {
+    .cards {
+        display: block;     
+        
+    }
+ }   
+

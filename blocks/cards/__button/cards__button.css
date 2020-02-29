@@ -1,0 +1,18 @@
+.cards__button {
+    margin-top: 40px;    
+    background: linear-gradient(to right,hsl(236, 72%, 79%),hsl(237, 63%, 64%));;
+    border-radius: 15px;    
+}
+.cards__button:hover {
+    background: white ;
+    border : 1px solid hsl(233, 13%, 49%);
+  
+}
+.cards__button_center{
+    background: white;
+}
+.cards__button_center:hover {
+    background: transparent ;
+    border : 1px solid white;
+  
+}
